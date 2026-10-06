@@ -5,12 +5,12 @@
 # for Python 3.2) so later versions may be installed, but you should drop
 # back to the versions listed here if you have problems.
 
-Jinja2==2.6
-Mako==0.7.3
-Markdown==2.3
+Jinja2==3.1.6
+Mako==1.4.2
+Markdown==3.8.1
 MarkupSafe==0.15
-PyYAML==3.10
-Pygments==1.6
+PyYAML==5.4
+Pygments==2.20.0
 docutils==0.10
 pytz==2013b
 six==1.2.0
